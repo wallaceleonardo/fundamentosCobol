@@ -1,7 +1,7 @@
       ******************************************************************
       * Author: WALLACE TOLENTINO
       * Date: 25/07/2024
-      * Purpose: DEMOSTRAR A INSTRUÇÃO MOVE
+      * Purpose: DEMOSTRAR A INSTRUCAO MOVE
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.

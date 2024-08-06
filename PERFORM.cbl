@@ -1,7 +1,7 @@
       ******************************************************************
       * Author: WALLACE TOLENTINO
       * Date: 25/07/2024
-      * Purpose: DEMONSTRA A INSTRUÇÃO PERFORM
+      * Purpose: DEMONSTRA A INSTRUCAO PERFORM
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
@@ -11,13 +11,13 @@
        WORKING-STORAGE SECTION.
        PROCEDURE DIVISION.
 
-      ************** EXECUTANDO OS PARAGRÁFOS
+      ************** EXECUTANDO OS PARAGRï¿½FOS
       * PERFORM P3-INICIO          THRU  P3-FIM.
       * PERFORM P1-INICIO          THRU  P1-FIM.
       * PERFORM P2-INICIO          THRU  P2-FIM.
       * PERFORM P4-INICIO          THRU  P4-FIM.
 
-      ************** EXECUTANDO AS SEÇÕES
+      ************** EXECUTANDO AS SEï¿½ï¿½ES
        PERFORM S2.
        PERFORM S1.
        PERFORM S3.

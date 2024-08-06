@@ -1,7 +1,7 @@
       ******************************************************************
       * Author: WALLACE TOLENTINO
       * Date: 26/07/2024
-      * Purpose: DEMONSTRAR A INSTRUÇÃO ON SIZE ERROR
+      * Purpose: DEMONSTRAR A INSTRUCAO ON SIZE ERROR
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.

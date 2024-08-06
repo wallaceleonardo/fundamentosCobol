@@ -1,7 +1,7 @@
       ******************************************************************
       * Author: WALLACE TOLENTINO
       * Date: 25/07/20224
-      * Purpose: DEMONSTRAR A INSTRUÇÃO UNSTRING
+      * Purpose: DEMONSTRAR A INSTRUCAO UNSTRING
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.

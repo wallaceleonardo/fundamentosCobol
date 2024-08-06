@@ -1,7 +1,7 @@
       ******************************************************************
       * Author: WALLACE TOLENTINO
       * Date: 26/07/2024
-      * Purpose: DEMONSTRAR A INSTRUÇÃO STRING
+      * Purpose: DEMONSTRAR A INSTRUCAO STRING
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
