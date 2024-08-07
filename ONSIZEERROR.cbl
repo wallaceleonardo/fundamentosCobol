@@ -9,9 +9,9 @@
        DATA DIVISION.
        FILE SECTION.
        WORKING-STORAGE SECTION.
-       77 WS-NUM-1                        PIC 9(02) VALUE ZEROS.
-       77 WS-NUM-2                        PIC 9(02) VALUE ZEROS.
-       77 WS-RESULT                       PIC 9(02) VALUE ZEROS.
+       77 WS-NUM-1                       PIC 9(02) VALUE ZEROS.
+       77 WS-NUM-2                       PIC 9(02) VALUE ZEROS.
+       77 WS-RESULT                      PIC 9(02) VALUE ZEROS.
 
        PROCEDURE DIVISION.
 
